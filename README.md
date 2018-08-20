@@ -3,6 +3,7 @@ This repo can be used to find information related to Canada's Boiron website, Bo
 
 Active Plugins:
 <br>
+<br>
 Category Posts Widget
 <br>
 Duplicator
