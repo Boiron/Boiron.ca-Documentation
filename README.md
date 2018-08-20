@@ -2,7 +2,7 @@
 This repo can be used to find information related to Canada's Boiron website, Boiron.ca.
 
 <h3>Active Plugins:</h3>
-<br>
+
 <br>
 AddToAny Share Buttons
 <br>
