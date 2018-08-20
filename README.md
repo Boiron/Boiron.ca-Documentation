@@ -6,13 +6,22 @@ Active Plugins:
 Category Posts Widget
 <br>
 Duplicator
+<br>
 Snapshot Pro
+<br>
 TJ Custom CSS
+<br>
 Updraft Plus
+<br>
 Widgets on Pages
+<br>
 WooDojo
+<br>
 WooSideBars
+<br>
 WPMU DEV Dashboard
+<br>
 xili-language
+<br>
 Yoast SEO
 
