@@ -41,3 +41,10 @@ xili-tidy-tags
 <br>
 Yoast SEO
 
+
+
+<h2>Backups</h2>
+
+Boiron CA Website really put up a fight for backups, I eventually had to utilize the Updraft Plus plugin to get a backup. WPMU Snapshot and the Duplicator plugin did not function and were giving 500 errors. You can find the Updraft Plus plugin on dropbox here --> <a href="https://www.dropbox.com/home/Matt's%20Website%20Backups%20Duplicator/CANADA%20MAIN%20-%20UPDRAFT%20PLUS">Click me to head to the backup</a>
+
+
