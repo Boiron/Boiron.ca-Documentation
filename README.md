@@ -1,4 +1,6 @@
 # Boiron.ca-Documentation
+This is an anachranism...site redone
+
 This repo can be used to find information related to Canada's Boiron website, Boiron.ca.
 
 <h3>Active Plugins:</h3>
